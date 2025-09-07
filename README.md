@@ -14,8 +14,8 @@ A Python-based lottery number prediction system that combines random generation 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/powerball-predictor.git
-cd powerball-predictor
+(git clone https://github.com/Marcusjayweather/LotteryNumbers.git)
+cd LotteryNumbers
 
 # Install dependencies
 pip install -r requirements.txt
